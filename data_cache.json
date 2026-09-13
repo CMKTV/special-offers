@@ -88,7 +88,7 @@
       "timeNotice": "19:00 前入場有效",
       "startDate": "",
       "endDate": "",
-      "contentHtml": "<p>溫馨提醒<br>✅身高<110cm 免費<br>✅兒童優惠之人數以\"大人價\"人數為上限<br>✅午夜未成年禁止入場<br></p><p></p><br><span class=\"text-secondary2/90 font-bold text-md\">人數計費說明</span><p><i class=\"fa-solid fa-comment text-secondary2/90\"></i><span class=\"tooltip text-secondary2/70\">大人人數 ≥ 小孩人數時<span class=\"tooltiptext\">大人3人+小孩3人<br>依大人3人\t小孩3人計費</span></span></p><p><i class=\"fa-solid fa-comment text-secondary2/90\"></i><span class=\"tooltip text-secondary2/70\">大人人數 ≤ 小孩人數時<span class=\"tooltiptext\">大人2人+小孩3人<br>依大人3人\t小孩2人計費<br>大人2人+小孩4人<br>依大人3人\t小孩3人計費</span></span></p>"
+      "contentHtml": "<p>溫馨提醒<br>\n✅身高 < 110cm 免費<br>\n✅兒童優惠人數以實際大人數為上限<br>\n（若小孩人數多於大人，多出的小孩將以「大人價」計）<br>\n✅午夜時段未成年人禁止入場<br></p>\n<p></p><br>\n<span class=\"text-secondary2/90 font-bold text-md\">人數計費說明</span>\n<p>\n  <i class=\"fa-solid fa-comment text-secondary2/90\"></i>\n  <span class=\"tooltip text-secondary2/70\">大人人數 ≥ 小孩人數時\n    <span class=\"tooltiptext\">小孩未超額，皆享優惠<br>例：大人3+小孩3 ➔ 依大3小3計費</span>\n  </span>\n</p>\n<p>\n  <i class=\"fa-solid fa-comment text-secondary2/90\"></i>\n  <span class=\"tooltip text-secondary2/70\">大人人數 ≤ 小孩人數時\n    <span class=\"tooltiptext\">\n      多出的小孩，依規則部分轉大人價<br>\n      例：大人2+小孩3 ➔ 依大3小2計費<br>\n      例：大人2+小孩4 ➔ 依大3小3計費\n    </span>\n  </span>\n</p>"
     },
     {
       "id": 6,
@@ -218,7 +218,7 @@
       "timeNotice": "19:00 前入場有效",
       "startDate": "",
       "endDate": "",
-      "contentHtml": "<p>溫馨提醒<br>✅身高<110cm 免費<br>✅兒童優惠之人數以\"大人價\"人數為上限<br>✅午夜未成年禁止入場<br></p><p></p><br><span class=\"text-secondary2/90 font-bold text-md\">人數計費說明</span><p><i class=\"fa-solid fa-comment text-secondary2/90\"></i><span class=\"tooltip text-secondary2/70\">大人人數 ≥ 小孩人數時<span class=\"tooltiptext\">大人3人+小孩3人<br>依大人3人\t小孩3人計費</span></span></p><p><i class=\"fa-solid fa-comment text-secondary2/90\"></i><span class=\"tooltip text-secondary2/70\">大人人數 ≤ 小孩人數時<span class=\"tooltiptext\">大人2人+小孩3人<br>依大人3人\t小孩2人計費<br>大人2人+小孩4人<br>依大人3人\t小孩3人計費</span></span></p>"
+      "contentHtml": "<p>溫馨提醒<br>\n✅身高 < 110cm 免費<br>\n✅兒童優惠人數以實際大人數為上限<br>\n（若小孩人數多於大人，多出的小孩將以「大人價」計）<br>\n✅午夜時段未成年人禁止入場<br></p>\n<p></p><br>\n<span class=\"text-secondary2/90 font-bold text-md\">人數計費說明</span>\n<p>\n  <i class=\"fa-solid fa-comment text-secondary2/90\"></i>\n  <span class=\"tooltip text-secondary2/70\">大人人數 ≥ 小孩人數時\n    <span class=\"tooltiptext\">小孩未超額，皆享優惠<br>例：大人3+小孩3 ➔ 依大3小3計費</span>\n  </span>\n</p>\n<p>\n  <i class=\"fa-solid fa-comment text-secondary2/90\"></i>\n  <span class=\"tooltip text-secondary2/70\">大人人數 ≤ 小孩人數時\n    <span class=\"tooltiptext\">\n      多出的小孩，依規則部分轉大人價<br>\n      例：大人2+小孩3 ➔ 依大3小2計費<br>\n      例：大人2+小孩4 ➔ 依大3小3計費\n    </span>\n  </span>\n</p>"
     },
     {
       "id": 6,
