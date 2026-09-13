@@ -110,21 +110,21 @@
     {
       "id": 1,
       "active": true,
-      "sort": 1,
+      "sort": 2,
       "text": "🎵 【四大情境】解鎖 優惠升級！",
       "link": ""
     },
     {
       "id": 2,
       "active": true,
-      "sort": 2,
+      "sort": 3,
       "text": "🎵 11:30以前入場，享有早鳥優惠",
       "link": ""
     },
     {
       "id": 3,
       "active": true,
-      "sort": 3,
+      "sort": 1,
       "text": "🎵 平日夜唱 7人團，$330/人起",
       "link": ""
     }
