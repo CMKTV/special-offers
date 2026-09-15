@@ -18,7 +18,7 @@
     {
       "id": 1788762591285,
       "active": true,
-      "sort": 2,
+      "sort": 5,
       "btnType": 1,
       "title": "【四大情境】解鎖 優惠升級！",
       "img": "https://www.citymelody.com.tw/web/images/4S-1.jpg",
@@ -33,7 +33,7 @@
     {
       "id": 1788761305339,
       "active": true,
-      "sort": 3,
+      "sort": 6,
       "btnType": 1,
       "title": "【四大情境】解鎖 優惠升級！",
       "img": "https://www.citymelody.com.tw/web/images/4S-2.jpg",
@@ -48,7 +48,7 @@
     {
       "id": 2,
       "active": true,
-      "sort": 4,
+      "sort": 7,
       "btnType": 1,
       "title": "早鳥搶先衝開門 ",
       "img": "https://www.citymelody.com.tw/web/images/offer_earlybird.jpg",
@@ -63,7 +63,7 @@
     {
       "id": 5,
       "active": true,
-      "sort": 5,
+      "sort": 11,
       "btnType": 2,
       "title": "【當月壽星專屬】",
       "img": "https://www.citymelody.com.tw/web/images/offer_birthday.jpg",
@@ -78,7 +78,7 @@
     {
       "id": 4,
       "active": true,
-      "sort": 6,
+      "sort": 12,
       "btnType": 2,
       "title": "親子同遊 福利多多 ",
       "img": "https://www.citymelody.com.tw/web/images/offer_summer3.jpg",
@@ -93,7 +93,7 @@
     {
       "id": 6,
       "active": true,
-      "sort": 10,
+      "sort": 13,
       "btnType": 2,
       "title": "自帶酒類 免開瓶費",
       "img": "https://www.citymelody.com.tw/web/images/offer_corkage2.jpg",
@@ -108,7 +108,7 @@
     {
       "id": 1789447036503,
       "active": true,
-      "sort": 9,
+      "sort": 3,
       "btnType": 1,
       "title": "平日限時微醺方案",
       "img": "https://www.citymelody.com.tw/web/images/offers_roomset_s.jpg",
@@ -163,7 +163,7 @@
     {
       "id": 1788762591285,
       "active": true,
-      "sort": 2,
+      "sort": 5,
       "btnType": 1,
       "title": "【四大情境】解鎖 優惠升級！",
       "img": "https://www.citymelody.com.tw/web/images/4S-1.jpg",
@@ -178,7 +178,7 @@
     {
       "id": 1788761305339,
       "active": true,
-      "sort": 3,
+      "sort": 6,
       "btnType": 1,
       "title": "【四大情境】解鎖 優惠升級！",
       "img": "https://www.citymelody.com.tw/web/images/4S-2.jpg",
@@ -193,7 +193,7 @@
     {
       "id": 2,
       "active": true,
-      "sort": 4,
+      "sort": 7,
       "btnType": 1,
       "title": "早鳥搶先衝開門 ",
       "img": "https://www.citymelody.com.tw/web/images/offer_earlybird.jpg",
@@ -208,7 +208,7 @@
     {
       "id": 5,
       "active": true,
-      "sort": 5,
+      "sort": 11,
       "btnType": 2,
       "title": "【當月壽星專屬】",
       "img": "https://www.citymelody.com.tw/web/images/offer_birthday.jpg",
@@ -223,7 +223,7 @@
     {
       "id": 4,
       "active": true,
-      "sort": 6,
+      "sort": 12,
       "btnType": 2,
       "title": "親子同遊 福利多多 ",
       "img": "https://www.citymelody.com.tw/web/images/offer_summer3.jpg",
@@ -238,7 +238,7 @@
     {
       "id": 6,
       "active": true,
-      "sort": 10,
+      "sort": 13,
       "btnType": 2,
       "title": "自帶酒類 免開瓶費",
       "img": "https://www.citymelody.com.tw/web/images/offer_corkage2.jpg",
@@ -253,7 +253,7 @@
     {
       "id": 1789447036503,
       "active": true,
-      "sort": 9,
+      "sort": 3,
       "btnType": 1,
       "title": "平日限時微醺方案",
       "img": "https://www.citymelody.com.tw/web/images/offers_roomset_s.jpg",
